@@ -1,0 +1,57 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --blanco: #ffffff;
+  --negro: #010a11;
+  --primario-azul: #0f47ad;
+  --primario-beigeclaro: #ede0d1;
+  --secundario-beigeoscuro: #e8c8ae;
+  --secundario-amarillo: #fadb09;
+  --terciario-verde: #2e534b;
+  --terciario-rojo: #8b3932;
+
+  /* Fonts */
+  --span-regular-font-family: Span-Regular, sans-serif;
+  --span-regular-font-size: 24px;
+  --span-regular-line-height: normal;
+  --span-regular-font-weight: 400;
+  --span-regular-font-style: normal;
+  --span-regular-italic-font-family: Span-Italic, sans-serif;
+  --span-regular-italic-font-size: 24px;
+  --span-regular-italic-line-height: normal;
+  --span-regular-italic-font-weight: 400;
+  --span-regular-italic-font-style: italic;
+  --span-bold-font-family: Span-Bold, sans-serif;
+  --span-bold-font-size: 24px;
+  --span-bold-line-height: normal;
+  --span-bold-font-weight: 700;
+  --span-bold-font-style: normal;
+  --span-bold-italic-font-family: Span-BoldItalic, sans-serif;
+  --span-bold-italic-font-size: 24px;
+  --span-bold-italic-line-height: normal;
+  --span-bold-italic-font-weight: 700;
+  --span-bold-italic-font-style: italic;
+  --nimbus-regular-font-family: NimbusSans-Regular, sans-serif;
+  --nimbus-regular-font-size: 20px;
+  --nimbus-regular-line-height: normal;
+  --nimbus-regular-font-weight: 400;
+  --nimbus-regular-font-style: normal;
+  --nimbus-italic-font-family: NimbusSans-RegularItalic, sans-serif;
+  --nimbus-italic-font-size: 24px;
+  --nimbus-italic-line-height: normal;
+  --nimbus-italic-font-weight: 400;
+  --nimbus-italic-font-style: italic;
+  --nimbus-bold-font-family: NimbusSans-Bold, sans-serif;
+  --nimbus-bold-font-size: 24px;
+  --nimbus-bold-line-height: normal;
+  --nimbus-bold-font-weight: 700;
+  --nimbus-bold-font-style: normal;
+  --nimbus-italic-font-family: NimbusSans-BoldItalic, sans-serif;
+  --nimbus-italic-font-size: 24px;
+  --nimbus-italic-line-height: normal;
+  --nimbus-italic-font-weight: 700;
+  --nimbus-italic-font-style: italic;
+
+  /* Effects */
+}
+/* Figma Color Variables of your File */
